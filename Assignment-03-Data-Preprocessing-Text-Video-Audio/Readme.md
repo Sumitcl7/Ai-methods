@@ -1,13 +1,9 @@
-Alrightttt Sumit — new day, new lab 😎🔥
-Let’s roll straight into **Assignment 03: Data Preprocessing (Text, Video, Audio)**.
-
-I’ll set everything up so your workflow is smooth like butter again.
 
 ---
 
-# ✅ **Assignment 03 Setup (Ready to Create + Upload)**
+#  **Assignment 03 Setup (Ready to Create + Upload)**
 
-## 📁 **1. Create the folder**
+##  **1. Create the folder**
 
 Run this in PowerShell:
 
@@ -17,15 +13,15 @@ mkdir "Assignment-03-Data-Preprocessing-Text-Video-Audio"
 
 ---
 
-## 📘 **2. Add the README for Assignment 03**
+##  **2. Add the README for Assignment 03**
 
 Here’s your ready-to-paste **README.md**:
 
 ---
 
-# 📘 **Assignment 03 — Data Preprocessing (Text, Video & Audio Data)**
+#  **Assignment 03 — Data Preprocessing (Text, Video & Audio Data)**
 
-## 📝 **Overview**
+##  **Overview**
 
 This assignment covers preprocessing techniques for **three major unstructured data types**:
 
@@ -37,7 +33,7 @@ Understanding these preprocessing steps is essential before feeding data into ML
 
 ---
 
-## 🧠 **What I Learned**
+##  **What I Learned**
 
 * Basics of **text normalization**
 * Removing stopwords using NLTK
@@ -60,7 +56,7 @@ Understanding these preprocessing steps is essential before feeding data into ML
 
 ---
 
-## 📂 **Folder Structure**
+##  **Folder Structure**
 
 ```
 Assignment-03-Data-Preprocessing-Text-Video-Audio/
@@ -75,7 +71,7 @@ Assignment-03-Data-Preprocessing-Text-Video-Audio/
 
 ---
 
-## ▶️ **How to Run**
+##  **How to Run**
 
 ### 1. Install dependencies:
 
@@ -91,7 +87,7 @@ jupyter notebook Assignment-03.ipynb
 
 ---
 
-## 🔧 **Key Tasks Included**
+##  **Key Tasks Included**
 
 ### **Text Preprocessing**
 
@@ -117,7 +113,7 @@ jupyter notebook Assignment-03.ipynb
 
 ---
 
-## ✔️ **Results**
+##  **Results**
 
 * Cleaned and formatted text dataset
 * Extracted & normalized audio waveforms
@@ -125,9 +121,9 @@ jupyter notebook Assignment-03.ipynb
 
 ---
 
-## ✒️ Author
+##  Author
 
 **Sumit Kumar**
-AI • Cloud • Software Engineering (2025)
+ (2025)
 
 ---
