@@ -1,9 +1,9 @@
 
 ---
 
-# 📘 **Assignment 02 — Data Preprocessing (Image Data)**
+#  **Assignment 02 — Data Preprocessing (Image Data)**
 
-## 📝 **Overview**
+##  **Overview**
 
 This assignment focuses on **preprocessing image data** for machine learning and deep learning tasks.
 The objective is to understand how images can be cleaned, transformed, normalized, and prepared for models such as CNNs.
@@ -19,7 +19,7 @@ We work with basic image operations like:
 
 ---
 
-## 🧠 **What I Learned**
+##  **What I Learned**
 
 * How to load images using **OpenCV / PIL**
 * How to visualize images using **Matplotlib**
@@ -31,7 +31,7 @@ We work with basic image operations like:
 
 ---
 
-## 🛠 **Technologies & Packages Used**
+##  **Technologies & Packages Used**
 
 * Python 3.x
 * NumPy
@@ -43,7 +43,7 @@ We work with basic image operations like:
 
 ---
 
-## 📂 **Folder Structure**
+##  **Folder Structure**
 
 ```
 Assignment-02-Data-Preprocessing-Image/
@@ -56,7 +56,7 @@ Assignment-02-Data-Preprocessing-Image/
 
 ---
 
-## ▶️ **How to Run This Assignment**
+##  **How to Run This Assignment**
 
 ### **1. Install Dependencies**
 
@@ -83,31 +83,31 @@ The notebook includes:
 
 ## 🖼 **Key Image Preprocessing Techniques Covered**
 
-### 🔹 **1. Image Loading**
+###  **1. Image Loading**
 
 ```python
 img = cv2.imread("image.jpg")
 ```
 
-### 🔹 **2. Resizing**
+###  **2. Resizing**
 
 ```python
 resized = cv2.resize(img, (128, 128))
 ```
 
-### 🔹 **3. Grayscale Conversion**
+###  **3. Grayscale Conversion**
 
 ```python
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 ```
 
-### 🔹 **4. Normalization**
+###  **4. Normalization**
 
 ```python
 normalized = img / 255.0
 ```
 
-### 🔹 **5. Data Augmentation**
+###  **5. Data Augmentation**
 
 ```python
 datagen = ImageDataGenerator(rotation_range=20, horizontal_flip=True)
@@ -115,7 +115,7 @@ datagen = ImageDataGenerator(rotation_range=20, horizontal_flip=True)
 
 ---
 
-## ✔️ **Results**
+##  **Results**
 
 * Successfully loaded & displayed images
 * Applied preprocessing transformations
@@ -124,13 +124,8 @@ datagen = ImageDataGenerator(rotation_range=20, horizontal_flip=True)
 
 ---
 
-## ✒️ **Author**
+##  **Author**
 
 **Sumit Kumar**
-AI • Cloud • Software Engineering
 2025
 
----
-
-If you want, I can also generate the **requirements.txt** for Assignment 02 or a **complete notebook template** (clean, sectioned, ready for GitHub + Colab).
-Just say the word 🚀
