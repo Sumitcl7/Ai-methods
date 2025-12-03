@@ -81,7 +81,7 @@ The notebook includes:
 
 ---
 
-## 🖼 **Key Image Preprocessing Techniques Covered**
+##  **Key Image Preprocessing Techniques Covered**
 
 ###  **1. Image Loading**
 
