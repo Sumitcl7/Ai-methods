@@ -159,7 +159,7 @@ c=c−α
 ∂J
 	​
 
-🛠 Technologies Used
+Technologies Used
 
 Python 3.x
 
