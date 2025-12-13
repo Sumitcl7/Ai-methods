@@ -1,4 +1,4 @@
- Assignment 05 — Linear Regression From Scratch
+# Assignment 05 — Linear Regression From Scratch
  Overview
 
 In this assignment, Linear Regression is implemented manually using only NumPy, without using Scikit-learn.
