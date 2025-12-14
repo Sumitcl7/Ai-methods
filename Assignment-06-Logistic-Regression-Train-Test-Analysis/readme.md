@@ -19,7 +19,7 @@ The goal is to understand how data partitioning impacts:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python 3.x  
 - NumPy  
 - Pandas  
@@ -55,9 +55,9 @@ Dataset loading and preprocessing
 
 Feature–target separation
 
-##Logistic Regression model training
+## Logistic Regression model training
 
-##Experimenting with multiple train/test splits
+## Experimenting with multiple train/test splits
 
 60–40
 
@@ -65,7 +65,7 @@ Feature–target separation
 
 80–20
 
-##Performance comparison using:
+## Performance comparison using:
 
 Accuracy
 
