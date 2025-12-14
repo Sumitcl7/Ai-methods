@@ -55,9 +55,9 @@ Dataset loading and preprocessing
 
 Feature–target separation
 
-Logistic Regression model training
+##Logistic Regression model training
 
-Experimenting with multiple train/test splits
+##Experimenting with multiple train/test splits
 
 60–40
 
@@ -65,7 +65,7 @@ Experimenting with multiple train/test splits
 
 80–20
 
-Performance comparison using:
+##Performance comparison using:
 
 Accuracy
 
@@ -73,7 +73,7 @@ Confusion Matrix
 
 Precision, Recall, F1-score
 
- Observations
+## Observations
 Smaller training sets may underfit
 
 Larger training sets improve generalization
